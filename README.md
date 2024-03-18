@@ -10,3 +10,4 @@ to create the initial DB
 3. Run the main() method in StudentDatabaseApp.java
 
 Link to video:
+https://youtu.be/cFcraLthelQ
